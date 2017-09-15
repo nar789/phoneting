@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Aug 29 15:59:00 KST 2017
+#Fri Sep 15 21:14:23 KST 2017
 25.file=C\:\\Users\\leejunghun\\gitproject\\phoneting\\two\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_\\AndroidManifest.xml
 25.base=C\:\\Users\\leejunghun\\gitproject\\phoneting\\two\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_
 22.set=ANDROID_RESOURCE

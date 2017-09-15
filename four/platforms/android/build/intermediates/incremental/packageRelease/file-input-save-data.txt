@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Aug 29 16:26:33 KST 2017
+#Fri Sep 15 21:16:01 KST 2017
 25.file=C\:\\Users\\leejunghun\\gitproject\\phoneting\\four\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_\\res\\drawable-port-mdpi-v4\\screen.png
 25.base=C\:\\Users\\leejunghun\\gitproject\\phoneting\\four\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_
 22.set=ASSET
@@ -8,7 +8,7 @@
 36.base=C\:\\Users\\leejunghun\\gitproject\\phoneting\\four\\platforms\\android\\build\\intermediates\\assets\\release
 11.set=ASSET
 27.set=ASSET
-30.file=C\:\\Users\\leejunghun\\gitproject\\phoneting\\four\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_\\res\\mipmap-ldpi-v4\\icon.png
+30.file=C\:\\Users\\leejunghun\\gitproject\\phoneting\\four\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_\\res\\drawable-port-xxxhdpi-v4\\screen.png
 14.file=C\:\\Users\\leejunghun\\gitproject\\phoneting\\four\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_\\res\\drawable-port-hdpi-v4\\screen.png
 30.base=C\:\\Users\\leejunghun\\gitproject\\phoneting\\four\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_
 14.base=C\:\\Users\\leejunghun\\gitproject\\phoneting\\four\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_
@@ -27,7 +27,7 @@ count=37
 7.set=ASSET
 20.base=C\:\\Users\\leejunghun\\gitproject\\phoneting\\four\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_
 10.set=ASSET
-31.file=C\:\\Users\\leejunghun\\gitproject\\phoneting\\four\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_\\res\\drawable-port-xxxhdpi-v4\\screen.png
+31.file=C\:\\Users\\leejunghun\\gitproject\\phoneting\\four\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_\\res\\mipmap-ldpi-v4\\icon.png
 15.file=C\:\\Users\\leejunghun\\gitproject\\phoneting\\four\\platforms\\android\\build\\intermediates\\assets\\release\\www\\cordova_plugins.js
 31.base=C\:\\Users\\leejunghun\\gitproject\\phoneting\\four\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_
 15.base=C\:\\Users\\leejunghun\\gitproject\\phoneting\\four\\platforms\\android\\build\\intermediates\\assets\\release

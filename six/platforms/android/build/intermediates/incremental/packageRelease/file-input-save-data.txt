@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Aug 29 16:45:15 KST 2017
+#Fri Sep 15 21:17:32 KST 2017
 25.file=C\:\\Users\\leejunghun\\gitproject\\phoneting\\six\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_\\res\\xml\\config.xml
 25.base=C\:\\Users\\leejunghun\\gitproject\\phoneting\\six\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_
 22.set=ASSET

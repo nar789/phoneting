@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Aug 29 17:21:59 KST 2017
+#Fri Sep 15 21:19:45 KST 2017
 25.file=C\:\\Users\\leejunghun\\gitproject\\phoneting\\nine\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_\\res\\drawable-land-hdpi-v4\\screen.png
 25.base=C\:\\Users\\leejunghun\\gitproject\\phoneting\\nine\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_
 22.set=ASSET
@@ -12,7 +12,7 @@
 14.base=C\:\\Users\\leejunghun\\gitproject\\phoneting\\nine\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_
 16.set=ANDROID_RESOURCE
 count=36
-6.file=C\:\\Users\\leejunghun\\gitproject\\phoneting\\nine\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_\\res\\drawable-port-xxhdpi-v4\\screen.png
+6.file=C\:\\Users\\leejunghun\\gitproject\\phoneting\\nine\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_\\res\\drawable-port-xhdpi-v4\\screen.png
 6.base=C\:\\Users\\leejunghun\\gitproject\\phoneting\\nine\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_
 26.file=C\:\\Users\\leejunghun\\gitproject\\phoneting\\nine\\platforms\\android\\build\\intermediates\\assets\\release\\www\\cordova-js-src\\android\\promptbasednativeapi.js
 2.set=ASSET
@@ -30,10 +30,10 @@ count=36
 31.base=C\:\\Users\\leejunghun\\gitproject\\phoneting\\nine\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_
 15.base=C\:\\Users\\leejunghun\\gitproject\\phoneting\\nine\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_
 26.set=ASSET
-7.file=C\:\\Users\\leejunghun\\gitproject\\phoneting\\nine\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_\\res\\drawable-port-xhdpi-v4\\screen.png
+7.file=C\:\\Users\\leejunghun\\gitproject\\phoneting\\nine\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_\\res\\drawable-port-xxhdpi-v4\\screen.png
 7.base=C\:\\Users\\leejunghun\\gitproject\\phoneting\\nine\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_
 15.set=ANDROID_RESOURCE
-27.file=C\:\\Users\\leejunghun\\gitproject\\phoneting\\nine\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_\\res\\mipmap-hdpi-v4\\icon.png
+27.file=C\:\\Users\\leejunghun\\gitproject\\phoneting\\nine\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_\\res\\drawable-port-mdpi-v4\\screen.png
 27.base=C\:\\Users\\leejunghun\\gitproject\\phoneting\\nine\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_
 1.file=C\:\\Users\\leejunghun\\gitproject\\phoneting\\nine\\platforms\\android\\build\\intermediates\\assets\\release\\www\\cordova-js-src\\platform.js
 1.base=C\:\\Users\\leejunghun\\gitproject\\phoneting\\nine\\platforms\\android\\build\\intermediates\\assets\\release
@@ -53,7 +53,7 @@ count=36
 25.set=ANDROID_RESOURCE
 17.base=C\:\\Users\\leejunghun\\gitproject\\phoneting\\nine\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_
 10.file=C\:\\Users\\leejunghun\\gitproject\\phoneting\\nine\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_\\res\\xml\\config.xml
-28.file=C\:\\Users\\leejunghun\\gitproject\\phoneting\\nine\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_\\res\\drawable-port-mdpi-v4\\screen.png
+28.file=C\:\\Users\\leejunghun\\gitproject\\phoneting\\nine\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_\\res\\mipmap-hdpi-v4\\icon.png
 10.base=C\:\\Users\\leejunghun\\gitproject\\phoneting\\nine\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_
 28.base=C\:\\Users\\leejunghun\\gitproject\\phoneting\\nine\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_
 14.set=ANDROID_RESOURCE
@@ -83,7 +83,7 @@ count=36
 23.file=C\:\\Users\\leejunghun\\gitproject\\phoneting\\nine\\platforms\\android\\build\\intermediates\\assets\\release\\www\\cordova-js-src\\plugin\\android\\app.js
 29.set=ASSET
 23.base=C\:\\Users\\leejunghun\\gitproject\\phoneting\\nine\\platforms\\android\\build\\intermediates\\assets\\release
-34.file=C\:\\Users\\leejunghun\\gitproject\\phoneting\\nine\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_\\res\\drawable-land-xxxhdpi-v4\\screen.png
+34.file=C\:\\Users\\leejunghun\\gitproject\\phoneting\\nine\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_\\res\\drawable-port-ldpi-v4\\screen.png
 34.base=C\:\\Users\\leejunghun\\gitproject\\phoneting\\nine\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_
 18.set=ANDROID_RESOURCE
 19.file=C\:\\Users\\leejunghun\\gitproject\\phoneting\\nine\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_\\res\\mipmap-xhdpi-v4\\icon.png
@@ -99,7 +99,7 @@ count=36
 9.set=ANDROID_RESOURCE
 24.base=C\:\\Users\\leejunghun\\gitproject\\phoneting\\nine\\platforms\\android\\build\\intermediates\\assets\\release
 12.set=ASSET
-35.file=C\:\\Users\\leejunghun\\gitproject\\phoneting\\nine\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_\\res\\drawable-port-ldpi-v4\\screen.png
+35.file=C\:\\Users\\leejunghun\\gitproject\\phoneting\\nine\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_\\res\\drawable-land-xxxhdpi-v4\\screen.png
 35.base=C\:\\Users\\leejunghun\\gitproject\\phoneting\\nine\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_
 28.set=ANDROID_RESOURCE
 17.set=ANDROID_RESOURCE
