@@ -21,15 +21,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\leejunghun\gitproject\phoneting\phoneting-native\platforms\android\build\intermediates\exploded-aar\org.apache.cordova\CordovaLib\6.2.3\release\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.3"
-        sha1="2c139e3eabb40b123f0cf6810207106ab2b86120">
-        <dex dex="C:\Users\leejunghun\gitproject\phoneting\phoneting-native\platforms\android\build\intermediates\pre-dexed\release\CordovaLib-6.2.3-release_5a352fc47d2ff21110ed28415628628b878aa61e.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="C:\Users\leejunghun\gitproject\phoneting\eight\platforms\android\build\intermediates\exploded-aar\org.apache.cordova\CordovaLib\6.2.3\debug\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -54,6 +45,24 @@
         revision="23.0.3"
         sha1="cd2af1a7180eb6427b58d868cd841d8212aca77e">
         <dex dex="C:\Users\leejunghun\gitproject\phoneting\one\platforms\android\build\intermediates\pre-dexed\debug\CordovaLib-6.2.3-debug_c82ca2a5ed4598f8a96234495dd8a64a5781e045.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\leejunghun\gitproject\phoneting\phoneting-native\platforms\android\build\intermediates\exploded-aar\org.apache.cordova\CordovaLib\6.2.3\release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2c139e3eabb40b123f0cf6810207106ab2b86120">
+        <dex dex="C:\Users\leejunghun\gitproject\phoneting\phoneting-native\platforms\android\build\intermediates\pre-dexed\release\CordovaLib-6.2.3-release_5a352fc47d2ff21110ed28415628628b878aa61e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\leejunghun\gitproject\phoneting\eight\platforms\android\build\intermediates\exploded-aar\org.apache.cordova\CordovaLib\6.2.3\debug\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cd2af1a7180eb6427b58d868cd841d8212aca77e">
+        <dex dex="C:\Users\leejunghun\gitproject\phoneting\eight\platforms\android\build\intermediates\pre-dexed\debug\CordovaLib-6.2.3-debug_e30d8de28daa3d6f32e57aa0cc7b8a1a29f9ccfc.jar" />
     </item>
 
 </items>
