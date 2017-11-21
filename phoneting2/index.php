@@ -29,7 +29,14 @@
       $query="SELECT * FROM phoneting_ad";
       if($result=mysqli_query($con,$query)){
         while($row=mysqli_fetch_row($result)){
-          echo "<a href=\"$row[2]\"><img class=adimg src='$row[1]'></a>";
+          $market=strrpos($row[2],"details?id");
+          $str=$row[2];
+          if($market>=0)
+          {
+            $str=substr($row[2],$market);
+            $str="market://".$str;
+          }
+          echo "<a href=\"$str\"><img class=adimg src='$row[1]'></a>";
           break;
         }
       }
