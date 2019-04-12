@@ -64,5 +64,14 @@
         sha1="2c139e3eabb40b123f0cf6810207106ab2b86120">
         <dex dex="C:\Users\leejunghun\gitproject\phoneting\4\platforms\android\build\intermediates\pre-dexed\release\CordovaLib-6.2.3-release_2020308005a57f37f3c33e466774e73c65c06e73.jar" />
     </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\leejunghun\gitproject\phoneting\4\platforms\android\build\intermediates\exploded-aar\org.apache.cordova\CordovaLib\6.2.3\debug\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.0"
+        sha1="5e9dd3c14ce9ec0f48decd5f41f82909ce588860">
+        <dex dex="C:\Users\leejunghun\gitproject\phoneting\4\platforms\android\build\intermediates\pre-dexed\debug\CordovaLib-6.2.3-debug_e00d3dde5f299640eeaec9aa527edba7d1f1a612.jar" />
+    </item>
 
 </items>

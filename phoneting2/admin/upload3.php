@@ -45,7 +45,7 @@
 	$file_type = $_FILES['upload']['type'];
 
 	if (move_uploaded_file($_FILES['upload']['tmp_name'], $filePath.$upload_filename)) {}// 실질적으로 업로드 
-	$imgurl="http://iop1199.cafe24.com/phoneting/girl_photos/".$upload_filename;
+	$imgurl="http://sunk1102.cafe24.com/phoneting/girl_photos/".$upload_filename;
 	include("../query/dbconnect.php");
 	$query="UPDATE phoneting_contents SET uri='$imgurl' WHERE no=".$_POST['no'];
 	mysqli_query($con,$query);

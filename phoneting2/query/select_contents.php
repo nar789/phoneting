@@ -2,7 +2,7 @@
   include("dbconnect.php");
   //$target_no=$_GET['target_no'];
   $query="SELECT * FROM phoneting_contents ORDER BY no DESC";
-  if($_POST['fixed']!='')$query=$query." LIMIT ".$_POST['fixed'].",".$_POST['count'];
+  //if($_POST['fixed']!='')$query=$query." LIMIT ".$_POST['fixed'].",".$_POST['count'];
 
   $phoneting_contents=array();
   if($result=mysqli_query($con,$query)){
