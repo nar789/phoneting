@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Fri Apr 12 19:44:07 KST 2019
+#Fri Apr 19 17:45:24 KST 2019
 25.file=C\:\\Users\\leejunghun\\gitproject\\phoneting\\5\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_\\res\\drawable-land-hdpi-v4\\screen.png
 25.base=C\:\\Users\\leejunghun\\gitproject\\phoneting\\5\\platforms\\android\\build\\intermediates\\res\\resources-release.ap_
 22.set=ANDROID_RESOURCE
