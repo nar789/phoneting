@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="wiwwl.treeopull.a7b9ccc4" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="wwl.tr2233ll.ababa5" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>핫폰팅</name>
     <author email="adkk2@cie.ke" href="rrie.ke.os">
         aE2CjI
@@ -25,6 +25,5 @@
     <plugin name="cordova-plugin-whitelist" spec="^1.3.2" />
     <plugin name="WebIntent" />
     <plugin name="com.borismus.webintent" spec="https://github.com/cordova-misc/cordova-webintent.git" />
-    <plugin name="cordova-plugin-splashscreen" spec="^4.0.3" />
     <plugin name="cordova-plugin-statusbar" spec="^2.2.3" />
 </widget>
